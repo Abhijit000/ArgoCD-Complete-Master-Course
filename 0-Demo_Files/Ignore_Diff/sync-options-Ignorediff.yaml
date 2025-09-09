@@ -43,7 +43,7 @@ metadata:
   name: demo-configmap
   namespace: argocdappdemo-ignorediff
 data:
-  key1: "NewValue4"
+  key1: "NewValue5"
   key2: "value2"
 
 
